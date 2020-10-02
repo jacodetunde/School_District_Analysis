@@ -11,10 +11,12 @@ schools_complete.csv
 pandas would be used for this analysis.
 ## Results
 ##### Effect on district summary
+![district_summary_df.png](district_summary_df.png)
 After removing Thomas High School ninth grade scores:
-- district overall percentage reduced from 65% to 64.9% ![district_summary_df.png](district_summary_df.png)
+- district overall percentage reduced from 65% to 64.9% 
 - district Math passing percentage also fell from 75% to 74.9%
-- district Reading passing percentage droppd by 0.3%. ![per_school_summary.png](per_school_summary.png)
+- district Reading passing percentage droppd by 0.3%. 
+![per_school_summary.png](per_school_summary.png)
 
 ##### Effect on school summary
 Removing Thomas High School ninth grade scores has no significant impact on other schools in the districts.
@@ -30,8 +32,8 @@ However, the following impacts can be seen on Thomas High School summary
 - Scores by school size
   No significant impact
 _ Scores by school type.
-  No significant impact ![sorted_result.png](sorted_result.png)
-
+  No significant impact 
+![sorted_result.png](sorted_result.png)
 
 ## Summary
 Removing theb scores of Thomas High School ninth grade had significant impact on Thomas High School overall performance and little impact
