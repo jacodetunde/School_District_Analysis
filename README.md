@@ -33,7 +33,7 @@ However, the following impacts can be seen on Thomas High School summary
   No significant impact
 _ Scores by school type.
   No significant impact 
-![sorted_result.png](sorted_result.png)
+![sorted_result.png](sorted_school.png)
 
 ## Summary
 Removing theb scores of Thomas High School ninth grade had significant impact on Thomas High School overall performance and little impact
