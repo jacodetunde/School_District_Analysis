@@ -12,7 +12,7 @@ pandas would be used for this analysis.
 ## Results
 ##### Effect on district summary
 After removing Thomas High School ninth grade scores:
-- district overall percentage reduced from 65% to 64.9% ![district_summary.png](district_summary.png)
+- district overall percentage reduced from 65% to 64.9% ![district_summary_df.png](district_summary_df.png)
 - district Math passing percentage also fell from 75% to 74.9%
 - district Reading passing percentage droppd by 0.3%. ![per_school_summary.png](per_school_summary.png)
 
