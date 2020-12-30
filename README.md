@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Exam Scores Analysis 
 ## Project Description
 This project aims at providing an analysis of Thomas High School exam scores analysis.
 ## Methods Used
