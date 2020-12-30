@@ -1,11 +1,23 @@
 # School_District_Analysis
+## Project Description
+This project aims at providing analysis about Thomas High School exam scores analysis.
+## Methods Used
+- Inferential Statistics
+- Data Visualization
+## Technologies
+- Python
+- Pandas, Jupyter Notebook
+## Needs of this project
+- data exploration
+- reporting
+## Project Description
 Analysis of the performances of students in schools located in each districts.
 The scope of this analysis involves:
 - Replacing ninth grade reading and math score at Thomas High School due to exam malpractices noticed.
 - Analysing Thomas High School and district schools overall performance without Thomas ninth grade scores.
 - Provide a written report for the school district analysis.
 The purpose is to see the effect of removing Thomas High School ninth grade score on other schools' analysis and district's analysis.
-#### Resources
+## Resources
 students_complete.csv
 schools_complete.csv
 pandas would be used for this analysis.
