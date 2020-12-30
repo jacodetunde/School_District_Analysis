@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Project Description
-This project aims at providing analysis about Thomas High School exam scores analysis.
+This project aims at providing an analysis of Thomas High School exam scores analysis.
 ## Methods Used
 - Inferential Statistics
 - Data Visualization
